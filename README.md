@@ -32,7 +32,8 @@ https://user-images.githubusercontent.com/78994881/214618280-2e110695-6af2-4326-
 Instale System_upload com npm
 
 ```bash
-  git clone https://github.com/benetesla/System_upload.git  npm install System_upload
+  git clone https://github.com/benetesla/System_upload.git  
+  npm install System_upload
   cd System_upload
   npm run dev
 ```
